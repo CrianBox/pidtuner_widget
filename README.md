@@ -1,1 +1,20 @@
-# pidtuner_widget
+# Widget
+
+## Info
+
+Maak gebruik van een interactieve notebook om meer voeling en inzicht te krijgen in het afstellen van PID regelaars.
+
+## Doel
+
+* Een veilige leeromgeving creëren 
+* Ontdekken van verschillende afstelmethodieken
+* Visualisatie voor het verwerven van inzicht
+
+## Link naar de online Jupyter Notebook omgeving
+
+[START DE WIDGET](https://mybinder.org/v2/gh/CrianBox/pidtuner_widget/e5a104a7d11ba9b40ff103fcc2bac7f0361a1516?filepath=PIDtune_Widget.ipynb)
+
+## Over OptiPID+
+
+Dit is onderdeel van het TETRA project OptiPID+. Verdere informatie is aanwezig op het [kennisplatform](https://keen-leavitt-dde150.netlify.app/).
+
