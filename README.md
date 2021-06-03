@@ -14,7 +14,7 @@ Maak gebruik van een interactieve notebook om meer voeling en inzicht te krijgen
 
 [START DE WIDGET: PID INTUITION](https://mybinder.org/v2/gh/CrianBox/pidtuner_widget/e5a104a7d11ba9b40ff103fcc2bac7f0361a1516?filepath=PIDtune_Widget.ipynb)
 
-[START DE WIDGET: PID DEADTIME COMPENSATION]()
+[START DE WIDGET: PID DEADTIME COMPENSATION](https://mybinder.org/v2/gh/CrianBox/pidtuner_widget/main?urlpath=https%3A%2F%2Fgithub.com%2FCrianBox%2Fpidtuner_widget%2Fblob%2Fmain%2Fwidget_control_timedelay.ipynb)
 
 ## Over OptiPID+
 
