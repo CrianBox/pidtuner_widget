@@ -12,7 +12,9 @@ Maak gebruik van een interactieve notebook om meer voeling en inzicht te krijgen
 
 ## Link naar de online Jupyter Notebook omgeving
 
-[START DE WIDGET](https://mybinder.org/v2/gh/CrianBox/pidtuner_widget/e5a104a7d11ba9b40ff103fcc2bac7f0361a1516?filepath=PIDtune_Widget.ipynb)
+[START DE WIDGET: PID INTUITION](https://mybinder.org/v2/gh/CrianBox/pidtuner_widget/e5a104a7d11ba9b40ff103fcc2bac7f0361a1516?filepath=PIDtune_Widget.ipynb)
+
+[START DE WIDGET: PID DEADTIME COMPENSATION]()
 
 ## Over OptiPID+
 
